@@ -3,7 +3,12 @@
 * I’m a passionate developer with a strong interest in innovative IT solutions to make everyday life more efficient, aiming for fileless and paperless home automation. My approach focuses on sustainable, streamlined systems that leverage lightweight, optimized technologies.
 
 ### Interests:
-#### 🏀 Basketball, ⚽ Soccer
+#### 🏀 Basketball
+* NBA
+* B-league
+#### ⚽ Soccer
+* premier league
+* MZV
 #### 🖥️ Exploring all facets of information technology
 #### 🔍 Keen to learn and implement practical solutions for day-to-day life and digital transformation
 
@@ -27,16 +32,46 @@
     * Migrating to lightweight
     * optimized container images for better performance
 #### Docker-Compose + Ansible Deployment
- * Tooling with Docker-Compose and Ansible for automated and simplified infrastructure setups
+ * Technologies: 
+    * Docker-compose
+    * Ansible
+ * Focus:
+    * Tooling with Docker-Compose
+    * Automated and simplified infrastructure setups
 #### Docker-Compose + Minetest Server
- * A setup to deploy Minetest, a voxel game engine, within a containerized environment
+ * Technologies: 
+    * Docker-compose
+    * Minetest Game
+ * Focus:
+    * A setup to deploy Minetest, a voxel game engine
+    * within a containerized environment
 #### Google Colab Files
- * Python-based experiments and code snippets for machine learning and data processing
+ * Technologies: 
+    * Python
+    * Google Colaboratory
+ * Focus:
+    * Python-based experiments
+    * code snippets for machine learning and data processing
 #### Infrastructure Automation Testing (bish_the_test)
- * Integrates GitHub Actions and Terraform to create reproducible infrastructure environments
+ * Technologies: 
+    * GitHub Actions
+    * Terraform
+ * Focus:
+    * Integrates GitHub Actions
+    * Terraform to create reproducible infrastructure environments
 #### K3d Infrastructure Stack
- * Technologies: MySQL, Python, Nginx, k3d, Prometheus, Grafana, Fluentd
- * Focus: End-to-end monitoring and observability within a k3d (Kubernetes-in-Docker) setup
+ * Technologies: 
+    * MySQL
+    * Python
+    * Nginx
+    * k3d
+    * Prometheus
+    * Grafana
+    * Fluentd
+ * Focus: 
+    * End-to-end monitoring
+    * Observability within a k3d (Kubernetes-in-Docker) setup
+    * Household management
 
 ### 📫 Contact
  * Currently, I don’t have direct contact available, but you can follow my work on GitHub.
