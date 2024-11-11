@@ -76,7 +76,7 @@
     * Integrates GitHub Actions
     * Terraform to create reproducible infrastructure environments
  * Site:
-    * checking...
+    * https://qiita.com/t_kyn/items/1f7ad629fd15d534a083
  * Repository:
     * Private only
 #### K3d Infrastructure Stack
