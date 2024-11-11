@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @t-kyn-git
+### 👋 Hi, I’m @t-kyn-git
  * I’m a passionate developer with a strong interest in innovative IT solutions to make everyday life more efficient, aiming for fileless and paperless home automation. My approach focuses on sustainable, streamlined systems that leverage lightweight, optimized technologies.
 
 Interests:
