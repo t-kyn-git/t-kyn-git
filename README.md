@@ -18,8 +18,14 @@
 
 ### Ongoing Projects (Portfolio):
 #### EC Site Backend (frontsrv)
- * Technologies: Java, Go, MongoDB, RabbitMQ
- * Focus: Migrating to lightweight, optimized container images for better performance
+ * Technologies: 
+    * Java
+    * Go
+    * MongoDB
+    * RabbitMQ
+ * Focus: 
+    * Migrating to lightweight
+    * optimized container images for better performance
 #### Docker-Compose + Ansible Deployment
  * Tooling with Docker-Compose and Ansible for automated and simplified infrastructure setups
 #### Docker-Compose + Minetest Server
