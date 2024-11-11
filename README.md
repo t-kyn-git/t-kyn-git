@@ -3,7 +3,7 @@
 * I’m a passionate developer with a strong interest in innovative IT solutions to make everyday life more efficient, aiming for fileless and paperless home automation. My approach focuses on sustainable, streamlined systems that leverage lightweight, optimized technologies.
 
 ### Interests:
-#### 🏀 Basketball, ⚽ Soccer
+#### * 🏀 Basketball, ⚽ Soccer
 * 🖥️ Exploring all facets of information technology
 * 🔍 Keen to learn and implement practical solutions for day-to-day life and digital transformation
 
