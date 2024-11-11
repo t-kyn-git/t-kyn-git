@@ -31,6 +31,10 @@
  * Focus: 
     * Migrating to lightweight
     * optimized container images for better performance
+ * Site:
+    * checking...
+ * Repository:
+    * Private only
 #### Docker-Compose + Ansible Deployment
  * Technologies: 
     * Docker-compose
@@ -38,8 +42,10 @@
  * Focus:
     * Tooling with Docker-Compose
     * Automated and simplified infrastructure setups
-　* Site:
+ * Site:
     * https://qiita.com/t_kyn/items/090f1b32c89f60186773
+ * Repository:
+    * Private only
 #### Docker-Compose + Minetest Server
  * Technologies: 
     * Docker-compose
@@ -47,6 +53,10 @@
  * Focus:
     * A setup to deploy Minetest, a voxel game engine
     * within a containerized environment
+ * Site:
+    * https://qiita.com/t_kyn/items/88a7e1fe7808bc21df7f
+ * Repository:
+    * Private only
 #### Google Colab Files
  * Technologies: 
     * Python
@@ -54,6 +64,10 @@
  * Focus:
     * Python-based experiments
     * code snippets for machine learning and data processing
+ * Site:
+    * checking...
+ * Repository:
+    * Private only
 #### Infrastructure Automation Testing (bish_the_test)
  * Technologies: 
     * GitHub Actions
@@ -61,6 +75,10 @@
  * Focus:
     * Integrates GitHub Actions
     * Terraform to create reproducible infrastructure environments
+ * Site:
+    * checking...
+ * Repository:
+    * Private only
 #### K3d Infrastructure Stack
  * Technologies: 
     * MySQL
@@ -74,6 +92,10 @@
     * End-to-end monitoring
     * Observability within a k3d (Kubernetes-in-Docker) setup
     * Household management
+ * Site:
+    * checking...
+ * Repository:
+    * Private only
 
 ### 📫 Contact
  * Currently, I don’t have direct contact available, but you can follow my work on GitHub.
