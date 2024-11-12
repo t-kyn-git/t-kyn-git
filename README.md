@@ -77,8 +77,9 @@
     * Terraform to create reproducible infrastructure environments
  * Site:
     * https://qiita.com/t_kyn/items/1f7ad629fd15d534a083
+    * https://t-kyn-git.github.io/t_kyn_bish_the_test/
  * Repository:
-    * Private only
+    * https://github.com/t-kyn-git/t_kyn_bish_the_test
 #### K3d Infrastructure Stack
  * Technologies: 
     * MySQL
