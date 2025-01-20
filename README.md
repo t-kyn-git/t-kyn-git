@@ -12,6 +12,38 @@
 #### 🖥️ Exploring all facets of information technology
 #### 🔍 Keen to learn and implement practical solutions for day-to-day life and digital transformation
 
+### experience:
+#### 💻technology
+* container
+ * Kubernetes,minikube,k3d,k3s
+ * docker,ansible
+* HA
+ * Peacemaker,clsterpro
+* MAIL,DNS...
+ * squid,bind,postfix,opendkim
+* database
+ * MySQL,Oracle19c,PostgreSQL
+* application middleware
+ * tomcat,apache,nginx,python
+* monitoring tools
+ * zabbix,git,sftp,jp1,senju
+* git
+ * github,gitlab,githubactions
+* CMS
+ * Wordpress,LAMP
+* BI tools:
+ * metabase,grafana,fluentd,prometheus
+* cloud:
+ * OCI,AWS,localstack,tflocal
+#### 🤖skills
+* member management as a team leader.
+* Man-Hour Management
+* trouble shootings
+* customer negotiation
+#### 💼Business knowledge
+* Mainly infrastructure non-functional requirements
+ (operation, etc.) and business requirements.
+
 ### Currently Learning and Working On:
 * Deepening knowledge across various IT domains, 
 * especially in containerization, cloud infrastructure, and automation
