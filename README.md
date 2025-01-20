@@ -15,26 +15,26 @@
 ### experience:
 #### 💻technology
 * container
- * Kubernetes,minikube,k3d,k3s
- * docker,ansible
+    * Kubernetes,minikube,k3d,k3s
+    * docker,ansible
 * HA
- * Peacemaker,clsterpro
+    * Peacemaker,clsterpro
 * MAIL,DNS...
- * squid,bind,postfix,opendkim
+    * squid,bind,postfix,opendkim
 * database
- * MySQL,Oracle19c,PostgreSQL
+    * MySQL,Oracle19c,PostgreSQL
 * application middleware
- * tomcat,apache,nginx,python
+    * tomcat,apache,nginx,python
 * monitoring tools
- * zabbix,git,sftp,jp1,senju
+    * zabbix,git,sftp,jp1,senju
 * git
- * github,gitlab,githubactions
+    * github,gitlab,githubactions
 * CMS
- * Wordpress,LAMP
+    * Wordpress,LAMP
 * BI tools:
- * metabase,grafana,fluentd,prometheus
+    * metabase,grafana,fluentd,prometheus
 * cloud:
- * OCI,AWS,localstack,tflocal
+    * OCI,AWS,localstack,tflocal
 #### 🤖skills
 * member management as a team leader.
 * Man-Hour Management
