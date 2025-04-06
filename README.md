@@ -54,57 +54,123 @@
 * Open-source projects with a focus on automation, containerized deployments, and efficient infrastructure management
 
 ### Ongoing Projects (Portfolio):
-#### EC Site Backend (frontsrv)
+* This shows the whole system using a J-pop metaphor.
+* The current planning may be change.
+* https://t-kyn-git.github.io/t_kyn_bish_the_test/
+```mermaid
+graph LR
+    Hello
+    A[MyFriend]
+    B[Automatic]
+    C[Eversince]
+    D[TomorrowNeverKnows]
+    E[Rustynail]
+    F[UltraSoul]
+    G[flower]
+    Hello ---|Edit Source Code| A
+    Hello ---|Edit Source Code| B
+    Hello ---|Edit Source Code| C
+    Hello ---|Edit Source Code| D
+    Hello ---|Edit Source Code| E
+    Hello ---|Edit Source Code| F
+    Hello ---|Edit Source Code| G
+    A --- B
+    C --- B
+    D --- B
+    E --- B
+    A --- D
+    C --- D
+    E --- D
+    A --- F
+    B --- F
+    C --- F
+    E --- F
+    A --- G
+    B --- G
+    C --- G
+    E --- G
+```
+#### MyFriend(Frontsrv)
+ * Reason for naming
+    * The phrase "always shining" means to increase the value of the e-commerce site.
  * Technologies: 
     * Java
     * Go
     * MongoDB
     * RabbitMQ
+    * Typescript
+    * Nginx
  * Focus: 
     * Migrating to lightweight
     * optimized container images for better performance
  * Site:
-    * checking...
+    * private only
  * Repository:
     * Private only
-#### Docker-Compose + Ansible Deployment
+#### Automatic(OCR + Private File Management)
+ * Reason for naming
+    * Because we want to automate the process rather than just manage documents
+ * Technologies: 
+    * python
+    * pptx,xlsx,docx,txt
+ * Focus: 
+    * All Document files.
+    * sensitive files.
+ * Site:
+    * private only
+ * Repository:
+    * Private only
+#### flower(Ansible)
+ * Reason for naming
+    * Because Ansible is like carefully build up invisible elements to create a beautiful, harmonious result.
  * Technologies: 
     * Docker-compose
     * Ansible
  * Focus:
+    * Docker-Compose + Ansible Deployment
     * Tooling with Docker-Compose
     * Automated and simplified infrastructure setups
  * Site:
     * https://qiita.com/t_kyn/items/090f1b32c89f60186773
  * Repository:
     * Private only
-#### Docker-Compose + Minetest Server
- * Technologies: 
+#### Rustynail(Luanti)
+ * Reason for naming
+    * Because A rusted nail, a rose drawn on fragments of memory, and Luanti all symbolize the beauty found in brokenness and the silent strength of forgotten things.
+ * Technologies:
     * Docker-compose
     * Minetest Game
  * Focus:
+    * Docker-Compose + Minetest Server
     * A setup to deploy Minetest, a voxel game engine
     * within a containerized environment
  * Site:
     * https://qiita.com/t_kyn/items/88a7e1fe7808bc21df7f
  * Repository:
     * Private only
-#### Google Colab Files
+#### UltraSoul(Google Colab and Cisco Network Packet Tracer Files)
+ * Reason for naming
+    * the fusion of Google Colab's limitless computation and Cisco Packet Tracer's structured connectivity—where raw power meets precise orchestration.
  * Technologies: 
     * Python
     * Google Colaboratory
+    * Cisco Network Packet Tracer
  * Focus:
     * Python-based experiments
     * code snippets for machine learning and data processing
+    * Network Configurations
  * Site:
-    * checking...
+    * Private only
  * Repository:
     * Private only
-#### Infrastructure Automation Testing (bish_the_test)
+#### Eversince (bish_the_test)
+ * Reason for naming
+    * between Terraform’s infrastructure as code and Django’s elegant backend—laying foundations and building dreams in perfect sync.
  * Technologies: 
     * GitHub Actions
     * Terraform
  * Focus:
+    * Infrastructure Automation Testing
     * Integrates GitHub Actions
     * Terraform to create reproducible infrastructure environments
  * Site:
@@ -112,7 +178,9 @@
     * https://t-kyn-git.github.io/t_kyn_bish_the_test/
  * Repository:
     * https://github.com/t-kyn-git/t_kyn_bish_the_test
-#### K3d Infrastructure Stack
+#### TomorrowNeverKnows(K3d Infrastructure Stack)
+ * Reason for naming
+    * For the Expection of the future. For not forget the issues.
  * Technologies: 
     * MySQL
     * Python
@@ -126,7 +194,7 @@
     * Observability within a k3d (Kubernetes-in-Docker) setup
     * Household management
  * Site:
-    * checking...
+    * Private only
  * Repository:
     * Private only
 
