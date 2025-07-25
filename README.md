@@ -30,7 +30,7 @@
 * git
     * github,gitlab,githubactions
 * CMS
-    * Wordpress,LAMP
+    * Wordpress,LAMP,nextcloud
 * BI tools:
     * metabase,grafana,fluentd,prometheus
 * cloud:
@@ -54,7 +54,7 @@
 * Open-source projects with a focus on automation, containerized deployments, and efficient infrastructure management
 
 ### Ongoing Projects (Portfolio):
-* This shows the whole system using a J-pop metaphor.
+* This shows the whole system. since the detail is the private infomation, the description is by using a J-pop metaphor.
 * The current planning may be change.
 * https://t-kyn-git.github.io/t_kyn_bish_the_test/
 ```mermaid
@@ -92,14 +92,16 @@ graph LR
 ```
 #### MyFriend(Frontsrv)
  * Reason for naming
-    * The phrase "always shining" means to increase the value of the e-commerce site.
+    * The phrase "always shining" means to increase the value of the flie serve and static website hosting.
  * Technologies: 
-    * Java
-    * Go
-    * MongoDB
-    * RabbitMQ
-    * Typescript
+    * Java(moved to old)
+    * Go(moved to old)
+    * MongoDB(moved to old)
+    * RabbitMQ(moved to old)
+    * Typescript(moved to old)
     * Nginx
+    * nextcloud
+    * mariadb
  * Focus: 
     * Migrating to lightweight
     * optimized container images for better performance
