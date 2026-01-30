@@ -14,32 +14,44 @@
 
 ### experience:
 #### 💻technology
-* container
-    * Kubernetes,minikube,k3d,k3s
-    * docker,ansible
-* HA
-    * Peacemaker,clsterpro
-* MAIL,DNS...
-    * squid,bind,postfix,opendkim
-* database
-    * MySQL,Oracle19c,PostgreSQL
-* application middleware
-    * tomcat,apache,nginx,python
-* monitoring tools
-    * zabbix,git,sftp,jp1,senju
-* git
-    * github,gitlab,githubactions
-* CMS
-    * Wordpress,LAMP,nextcloud
-* BI tools:
-    * metabase,grafana,fluentd,prometheus
-* cloud:
-    * OCI,AWS,localstack,tflocal
+
+* The skills I possess are as follows:
+   <details><summary>---- Technology of Experience (CLICK HERE): ----</summary>
+   
+   * container
+       * Kubernetes,minikube,k3d,k3s
+       * docker,ansible
+   * HA
+       * Peacemaker,clsterpro
+   * MAIL,DNS...
+       * squid,bind,postfix,opendkim
+   * database
+       * MySQL,Oracle19c,PostgreSQL
+   * application middleware
+       * tomcat,apache,nginx,python
+   * monitoring tools
+       * zabbix,git,sftp,jp1,senju
+   * git
+       * github,gitlab,githubactions
+   * CMS
+       * Wordpress,LAMP,nextcloud
+   * BI tools:
+       * metabase,grafana,fluentd,prometheus
+   * cloud:
+       * OCI,AWS,localstack,tflocal
+   </details>
+
 #### 🤖skills
-* member management as a team leader.
-* Man-Hour Management
-* trouble shootings
-* customer negotiation
+* I have experience applying technical expertise to lead teams and facilitate client requirements coordination.
+
+   <details><summary>---- Skills of Experience (CLICK HERE) ----</summary>
+   
+   * Member management as a Team Leader.
+   * Man-Hour Management
+   * Trouble shootings of Bugs and additional requests
+   * customer negotiation
+   </details>
+
 #### 💼Business knowledge
 * Mainly infrastructure non-functional requirements
  (operation, etc.) and business requirements.
@@ -50,13 +62,14 @@
 * Experimenting with Alpine-based container images for efficient memory usage in lightweight applications
 
 ### Looking to Collaborate On:
-* Paperless, fileless home environments
+* In home environments, we need to be Paperless, Minimum File Management.
 * Open-source projects with a focus on automation, containerized deployments, and efficient infrastructure management
 
 ### Ongoing Projects (Portfolio):
 * This shows the whole system. since the detail is the private infomation, the description is by using a J-pop metaphor.
-* The current planning may be change.
-* https://t-kyn-git.github.io/t_kyn_bish_the_test/
+* Please understand that names may change depending on the latest trends and changes in public opinion.
+* The current Development planning may be change because of Changes in life stage.
+* https://t-kyn-git.github.io/t_kyn_communal_the_test/
 ```mermaid
 graph LR
     Hello
@@ -67,6 +80,7 @@ graph LR
     E[Rustynail]
     F[UltraSoul]
     G[flower]
+    H[GALA]
     Hello ---|Edit Source Code| A
     Hello ---|Edit Source Code| B
     Hello ---|Edit Source Code| C
@@ -74,6 +88,7 @@ graph LR
     Hello ---|Edit Source Code| E
     Hello ---|Edit Source Code| F
     Hello ---|Edit Source Code| G
+    Hello ---|No Edit Source Code| H
     A --- B
     C --- B
     D --- B
@@ -89,23 +104,21 @@ graph LR
     B --- G
     C --- G
     E --- G
+    B --- H
+    D --- H
 ```
 #### MyFriend(Frontsrv)
  * Reason for naming
     * The phrase "always shining" means to increase the value of the flie serve and static website hosting.
- * Technologies: 
-    * Java(moved to old)
-    * Go(moved to old)
-    * MongoDB(moved to old)
-    * RabbitMQ(moved to old)
-    * Typescript(moved to old)
-    * Nginx
-    * nextcloud
-    * mariadb
+ * Technologies:
+    * NextCloud in Private Own Server
+       * Nginx / nextcloud / mariadb
+    * Sock-shops(moved to old)
+       * Java / Go / MongoDB / RabbitMQ / Typescript
  * Focus: 
     * Migrating to lightweight
     * optimized container images for better performance
- * Site:
+ * Tech Blogs:
     * private only
  * Repository:
     * Private only
@@ -113,12 +126,12 @@ graph LR
  * Reason for naming
     * Because we want to automate the process rather than just manage documents
  * Technologies: 
-    * python
-    * pptx,xlsx,docx,txt
+    * Python
+    * Document files (PowerPoint / Excel / Word / Text / PDF / CSV / PNG)
  * Focus: 
     * All Document files.
     * sensitive files.
- * Site:
+ * Tech Blogs:
     * private only
  * Repository:
     * Private only
@@ -127,12 +140,14 @@ graph LR
     * Because Ansible is like carefully build up invisible elements to create a beautiful, harmonious result.
  * Technologies: 
     * Docker-compose
+      * Multi Container Buildings (Airflow / OracleDatabase / rsync / rsyslog / gitea )
     * Ansible
+    * Minimum Cluster (Multi node of ElasticSearch and Kibana)
  * Focus:
     * Docker-Compose + Ansible Deployment
     * Tooling with Docker-Compose
     * Automated and simplified infrastructure setups
- * Site:
+ * Tech Blogs:
     * https://qiita.com/t_kyn/items/090f1b32c89f60186773
  * Repository:
     * Private only
@@ -146,7 +161,7 @@ graph LR
     * Docker-Compose + Minetest Server
     * A setup to deploy Minetest, a voxel game engine
     * within a containerized environment
- * Site:
+ * Tech Blogs:
     * https://qiita.com/t_kyn/items/88a7e1fe7808bc21df7f
  * Repository:
     * Private only
@@ -161,11 +176,11 @@ graph LR
     * Python-based experiments
     * code snippets for machine learning and data processing
     * Network Configurations
- * Site:
+ * Tech Blogs:
     * Private only
  * Repository:
     * Private only
-#### Eversince (bish_the_test)
+#### Eversince (communal_the_test)
  * Reason for naming
     * between Terraform’s infrastructure as code and Django’s elegant backend—laying foundations and building dreams in perfect sync.
  * Technologies: 
@@ -175,30 +190,42 @@ graph LR
     * Infrastructure Automation Testing
     * Integrates GitHub Actions
     * Terraform to create reproducible infrastructure environments
- * Site:
+ * Tech Blogs:
     * https://qiita.com/t_kyn/items/1f7ad629fd15d534a083
-    * https://t-kyn-git.github.io/t_kyn_bish_the_test/
+    * https://t-kyn-git.github.io/t_kyn_communal_the_test/
  * Repository:
     * https://github.com/t-kyn-git/t_kyn_bish_the_test
 #### TomorrowNeverKnows(K3d Infrastructure Stack)
  * Reason for naming
     * For the Expection of the future. For not forget the issues.
+    * The feature is the most important in terms of user life planning.
  * Technologies: 
-    * MySQL
-    * Python
-    * Nginx
-    * k3d
-    * Prometheus
-    * Grafana
-    * Fluentd
+    * application:
+       * MySQL / Python / Nginx
+    * Platform:
+       * k3d
+    * Operations:
+       * Prometheus / Grafana / Fluentd / Loki / Vector
+       * Automations (Github Actions)
  * Focus: 
     * End-to-end monitoring
     * Observability within a k3d (Kubernetes-in-Docker) setup
     * Household management
- * Site:
+ * Tech Blogs:
     * Private only
  * Repository:
     * Private only
-
+#### GALA (t-kyn-data-suns-lakers)
+  * Reason for naming
+     * “GALA”, is cosmic and futuristic imagery, symbolizing exploration and analysis at scale.
+     * t-kyn-data-suns-lakers reflects the team/project lineage.
+  * Technologies
+     * Python, Pandas, NumPy, Prometheus Client, Grafana, Docker
+  * Focus
+     * Collection, processing, and analysis of Prometheus metrics for performance monitoring and statistical insights
+  * Tech Blogs:
+     * Private only
+  * Repository:
+     * Private only
 ### 📫 Contact
  * Currently, I don’t have direct contact available, but you can follow my work on GitHub.
