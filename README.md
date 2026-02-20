@@ -1,6 +1,7 @@
 ### Introduce:
 #### 👋 Hi, I’m @t-kyn-git
 * I’m a passionate developer with a strong interest in innovative IT solutions to make everyday life more efficient, aiming for fileless and paperless home automation. My approach focuses on sustainable, streamlined systems that leverage lightweight, optimized technologies.
+* **Currently, as a father of one child, I prioritize the activities with the highest importance from the above goals. By actively leveraging generative AI to save time and improve efficiency, I ensure that my work and projects do not interfere with childcare and family responsibilities.**
 
 ### Interests:
 #### 🏀 Basketball
